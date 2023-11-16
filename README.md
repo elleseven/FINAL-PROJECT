@@ -1,6 +1,6 @@
 # FINAL-PROJECT
 Heart Disease Classification (Machine Learning)
-Introduction
+# Introduction
 Insights
 Findings
 Conclusion
